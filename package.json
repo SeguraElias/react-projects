@@ -11,5 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "react-dev-tools": "^0.0.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
   }
 }
